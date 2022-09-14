@@ -2,6 +2,8 @@
 
 This dataset consists of 1,000 Cone-Beam Computed Tomography (CBCT) scans of healthy and unhealthy teeth. Each sample consists of a pair of images in coronal and sagittal planes. The study protocol was reviewed and approved by the Local Research Ethics Committee, University of Pernambuco, Brazil (certificate : 4.881.124).
 
+![alt text]([http://url/to/img.png](https://www.mdpi.com/sensors/sensors-22-06481/article_deploy/html/images/sensors-22-06481-g002.png))
+
 # Citation
 
 If you use this dataset please cite our paper as follows:
