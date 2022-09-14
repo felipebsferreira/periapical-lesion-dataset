@@ -4,7 +4,16 @@ This dataset consists of 1,000 Cone-Beam Computed Tomography (CBCT) scans of hea
 
 # Citation
 
-The work which originates this dataset is currently under review. The complete set of images will be available here when the process is finished and as well as the reference to the paper that will provide further information about the database.
+If you use this dataset please cite our paper as follows:
+
+*MDPI and ACS Style*
+Calazans, M.A.A.; Ferreira, F.A.B.S.; Alcoforado, M.d.L.M.G.; Santos, A.d.; Pontual, A.d.A.; Madeiro, F. Automatic Classification System for Periapical Lesions in Cone-Beam Computed Tomography. Sensors 2022, 22, 6481. https://doi.org/10.3390/s22176481
+
+*AMA Style*
+Calazans MAA, Ferreira FABS, Alcoforado MdLMG, Santos Ad, Pontual AdA, Madeiro F. Automatic Classification System for Periapical Lesions in Cone-Beam Computed Tomography. Sensors. 2022; 22(17):6481. https://doi.org/10.3390/s22176481
+
+*Chicago/Turabian Style*
+Calazans, Maria Alice Andrade, Felipe Alberto B. S. Ferreira, Maria de Lourdes Melo Guedes Alcoforado, Andrezza dos Santos, Andréa dos Anjos Pontual, and Francisco Madeiro. 2022. "Automatic Classification System for Periapical Lesions in Cone-Beam Computed Tomography" Sensors 22, no. 17: 6481. https://doi.org/10.3390/s22176481
 
 # Dataset
 
